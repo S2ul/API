@@ -24,7 +24,6 @@ public class KWeatherVo {
                     public String stnNm;
                     public String minTa;
                     public String maxTa;
-                    // 다른 속성들
                 }
             }
         }
